@@ -1,10 +1,11 @@
 #!/bin/bash
 
 CHOICES=(
+  "Clion             IntelliJ's commercial C++ IDE"
   "Cursor            AI Code Editor"
   "Doom Emacs        Emacs framework with curated list of packages"
-  "RubyMine          IntelliJ's commercial Ruby editor"
   "PyCharm           IntelliJ's commercial Python editor"
+  "RubyMine          IntelliJ's commercial Ruby editor"
   "Windsurf          Another AI Code Editor"
   "Zed               Fast all-purpose editor"
   "<< Back           "
